@@ -1,0 +1,5 @@
+tests/*
+
+.vs
+.vscode
+.idea
